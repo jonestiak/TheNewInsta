@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		12F1557422BD895500B3BFF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1557322BD895500B3BFF6 /* AppDelegate.swift */; };
-		12F1557622BD895500B3BFF6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1557522BD895500B3BFF6 /* ViewController.swift */; };
 		12F1557922BD895500B3BFF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12F1557722BD895500B3BFF6 /* Main.storyboard */; };
 		12F1557C22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 12F1557A22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld */; };
 		12F1557E22BD895600B3BFF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 12F1557D22BD895600B3BFF6 /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		12F1557022BD895500B3BFF6 /* TheNewInsta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheNewInsta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F1557322BD895500B3BFF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		12F1557522BD895500B3BFF6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		12F1557822BD895500B3BFF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		12F1557B22BD895500B3BFF6 /* TheNewInsta.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TheNewInsta.xcdatamodel; sourceTree = "<group>"; };
 		12F1557D22BD895600B3BFF6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				12F1557322BD895500B3BFF6 /* AppDelegate.swift */,
-				12F1557522BD895500B3BFF6 /* ViewController.swift */,
 				12F1557722BD895500B3BFF6 /* Main.storyboard */,
 				12F1557D22BD895600B3BFF6 /* Assets.xcassets */,
 				12F1557F22BD895600B3BFF6 /* LaunchScreen.storyboard */,
@@ -259,7 +256,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12F1557622BD895500B3BFF6 /* ViewController.swift in Sources */,
 				12F1557422BD895500B3BFF6 /* AppDelegate.swift in Sources */,
 				12F1557C22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld in Sources */,
 			);
