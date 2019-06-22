@@ -14,6 +14,7 @@
 		12F1558122BD895600B3BFF6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12F1557F22BD895600B3BFF6 /* LaunchScreen.storyboard */; };
 		12F1558C22BD895600B3BFF6 /* TheNewInstaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1558B22BD895600B3BFF6 /* TheNewInstaTests.swift */; };
 		12F1559722BD895600B3BFF6 /* TheNewInstaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1559622BD895600B3BFF6 /* TheNewInstaUITests.swift */; };
+		12F155A722BD903000B3BFF6 /* AddPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F155A622BD903000B3BFF6 /* AddPhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		12F1559222BD895600B3BFF6 /* TheNewInstaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TheNewInstaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F1559622BD895600B3BFF6 /* TheNewInstaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TheNewInstaUITests.swift; sourceTree = "<group>"; };
 		12F1559822BD895600B3BFF6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		12F155A622BD903000B3BFF6 /* AddPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddPhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				12F1557322BD895500B3BFF6 /* AppDelegate.swift */,
 				12F1557722BD895500B3BFF6 /* Main.storyboard */,
+				12F155A622BD903000B3BFF6 /* AddPhotoViewController.swift */,
 				12F1557D22BD895600B3BFF6 /* Assets.xcassets */,
 				12F1557F22BD895600B3BFF6 /* LaunchScreen.storyboard */,
 				12F1558222BD895600B3BFF6 /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				12F1557422BD895500B3BFF6 /* AppDelegate.swift in Sources */,
+				12F155A722BD903000B3BFF6 /* AddPhotoViewController.swift in Sources */,
 				12F1557C22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
