@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1281703422C001D8005A497D /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1281703322C001D8005A497D /* PhotoDetailViewController.swift */; };
+		1281703622C0023B005A497D /* PhotoDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1281703522C0023B005A497D /* PhotoDetailViewController.swift */; };
 		12F1557422BD895500B3BFF6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12F1557322BD895500B3BFF6 /* AppDelegate.swift */; };
 		12F1557922BD895500B3BFF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 12F1557722BD895500B3BFF6 /* Main.storyboard */; };
 		12F1557C22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 12F1557A22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1281703322C001D8005A497D /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
+		1281703522C0023B005A497D /* PhotoDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoDetailViewController.swift; sourceTree = "<group>"; };
 		12F1557022BD895500B3BFF6 /* TheNewInsta.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TheNewInsta.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		12F1557322BD895500B3BFF6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		12F1557822BD895500B3BFF6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -81,6 +85,7 @@
 		12F1556722BD895500B3BFF6 = {
 			isa = PBXGroup;
 			children = (
+				1281703322C001D8005A497D /* PhotoDetailViewController.swift */,
 				12F1557222BD895500B3BFF6 /* TheNewInsta */,
 				12F1558A22BD895600B3BFF6 /* TheNewInstaTests */,
 				12F1559522BD895600B3BFF6 /* TheNewInstaUITests */,
@@ -103,6 +108,7 @@
 			children = (
 				12F1557322BD895500B3BFF6 /* AppDelegate.swift */,
 				12F1557722BD895500B3BFF6 /* Main.storyboard */,
+				1281703522C0023B005A497D /* PhotoDetailViewController.swift */,
 				12F155A822BE9DC400B3BFF6 /* PhotoTableTableViewController.swift */,
 				12F155A622BD903000B3BFF6 /* AddPhotoViewController.swift */,
 				12F1557D22BD895600B3BFF6 /* Assets.xcassets */,
@@ -262,9 +268,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1281703622C0023B005A497D /* PhotoDetailViewController.swift in Sources */,
 				12F1557422BD895500B3BFF6 /* AppDelegate.swift in Sources */,
 				12F155A722BD903000B3BFF6 /* AddPhotoViewController.swift in Sources */,
 				12F1557C22BD895500B3BFF6 /* TheNewInsta.xcdatamodeld in Sources */,
+				1281703422C001D8005A497D /* PhotoDetailViewController.swift in Sources */,
 				12F155A922BE9DC400B3BFF6 /* PhotoTableTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
